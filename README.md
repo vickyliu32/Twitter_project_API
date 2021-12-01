@@ -7,10 +7,7 @@ Tweets of Joe Biden about discussing coronavirus and vaccination
 
 2. As a user, I would like to understand how Joe Biden’s Twitter’s reaction create impact on number of persons receiving vaccine. 
 
-## **3. Team Member**
-    The team members include Hong, Carl and Vicky will handle the project. 
-
-## **4. Implementation**
+## **3. Implementation**
 * Programming Language: **Python3**
 * Database: **SQLite**
 * Data Source: **Twitter API**
@@ -19,5 +16,5 @@ Tweets of Joe Biden about discussing coronavirus and vaccination
 * SQLite Library: **sqlite3**
 * Database Schema: **Tweets, users_profile**
 
-## **5. Install Package**
+## **4. Install Package**
     python3 -m pip -r requirements.txt
